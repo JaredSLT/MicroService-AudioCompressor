@@ -1,4 +1,4 @@
-package ca.tresearchgroup.audiocompressor.view;
+package tech.tresearchgroup.microservices.audiocompressor.view;
 
 import io.activej.http.HttpMethod;
 import io.activej.http.HttpResponse;
